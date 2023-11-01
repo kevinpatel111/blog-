@@ -1,0 +1,15 @@
+.user{
+    border: 2px solid #8f78e4; 
+    background-color: #d0c1f3; 
+    padding: 10px; 
+    margin: 10px;
+}
+.container-fluid{
+    border: 2px solid aqua;
+    background-color: #d8ef00;
+    padding: 10px;
+    margin: 10px        
+}
+
+
+
